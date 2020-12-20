@@ -1,6 +1,6 @@
 # 🔗 URL Shortener for Warga Tiga
 
-This is Warga Tiga's URL shortener from [nelsontky's Github Page shortener](https://github.com/nelsontky/gh-pages-url-shortener/ "nelsontky's Github Page shortener").
+This is Warga Tiga's URL shortener based on [nelsontky's Github Page shortener](https://github.com/nelsontky/gh-pages-url-shortener/ "nelsontky's Github Page shortener").
 
 ## 👨‍🏫 Demo & How To
 
