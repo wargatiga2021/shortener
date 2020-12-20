@@ -2,7 +2,7 @@
 
 This is Warga Tiga's URL shortener from [nelsontky's Github Page shortener](https://github.com/nelsontky/gh-pages-url-shortener/ "nelsontky's Github Page shortener").
 
-## 👨‍🏫 Demo
+## 👨‍🏫 Demo & How To
 
 1. [url.wargati.ga/1](https://url.wargati.ga/1) should link to this repo.
 
