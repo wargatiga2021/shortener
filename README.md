@@ -6,11 +6,15 @@ This is Warga Tiga's URL shortener based on [nelsontky's Github Page shortener](
 
 1. [url.wargati.ga/1](https://url.wargati.ga/1) should link to this repo.
 
-1. To add a new short link, add an issue with the title being the link you want
-   to shorten (including the `http(s)://`) to
-   [https://github.com/farellfaiz/wargatiga-url-shortener/issues](https://github.com/farellfaiz/wargatiga-url-shortener/issues).
+1. **To add a new short link**:
+	a) Make sure you have a Github account, if you don't then register. It's easy.
+	b) Go to [https://github.com/farellfaiz/wargatiga-url-shortener/issues](https://github.com/farellfaiz/wargatiga-url-shortener/issues).
+	c) Add an issue by clicking the **New Issue** button.
+	d) Fill the issue form with the title being the link you want to shorten (including the `http(s)://`).
+	e) Shorten your link by clicking the **Submit New Issue** button.
 
 1. The newly created short url can be accessed via `url.wargati.ga/{issue_number}`
+![Issue number.](wargati.ga/images/issue-number.png "Issue number.")
 
 ## ☕️ Features
 
