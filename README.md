@@ -5,7 +5,7 @@ This is Warga Tiga's URL shortener based on [nelsontky's Github Page shortener](
 
 ## 👨‍🏫 Demo & How To
 
-1. [url.wargati.ga/1](https://url.wargati.ga/1) should link to this repo.
+1. For example, [url.wargati.ga/1](https://url.wargati.ga/1) should link to this repo.
 
 1. **To add a new short link**:
 - Make sure you have a Github account, if you don't then register. It's easy.
