@@ -14,7 +14,7 @@ This is Warga Tiga's URL shortener based on [nelsontky's Github Page shortener](
 	e) Shorten your link by clicking the **Submit New Issue** button.
 
 1. The newly created short url can be accessed via `url.wargati.ga/{issue_number}`
-![Issue number.](wargati.ga/images/issue-number.png "Issue number.")
+![Issue number.](https://wargati.ga/images/issue-number.png "Issue number.")
 
 ## ☕️ Features
 
